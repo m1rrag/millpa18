@@ -1,5 +1,18 @@
-Patrick "Alex" Mills millpa18@evergreen.edu
-Tom Drews Dretho08@evergreen.edu
+Programming
 
-Week 1 Goal:
-Finish, or nearly finish iJava. (70% or more complete)
+    Patrick "Alex" Mills millpa18@evergreen.edu
+    Tom Drews Dretho08@evergreen.edu
+
+  Week 1 Goal:
+    Finish, or nearly finish iJava. (70% or more complete)
+
+
+Hardware
+    Patrick "Alex" Mills millap18@evergreen.edu
+    Chuck Neudorf chuckneudorf@hotmail.com
+
+  Week 1 Goal:
+    Choose Arduino board and/or kit you want for kit (DCT pays for <50$)
+    Put together shopping list for additional parts.
+    Investigate submersible parts (3-4 motors) and attempt to make it autonomous.
+  
